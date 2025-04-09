@@ -13,8 +13,6 @@
 
 Sou **Analista de QA** com mais de **18 anos de experiência na área de tecnologia**, tendo construído uma base sólida ao longo de uma carreira que começou como **Analista de Suporte**. Essa vivência me proporcionou uma visão ampla e empática sobre as dores dos usuários, algo que levo comigo até hoje na missão de garantir entregas com **qualidade, estabilidade e valor real para o negócio**.
 
-Atualmente, atuo no time da **Compasso UOL**, onde participo ativamente de um projeto estratégico para o cliente **Natura**, desde sua fase inicial. Lá, aplico **testes funcionais e automatizados** em APIs, aplicações mobile e interfaces web, utilizando ferramentas como **Postman, Cypress, Rest-Assured, BrowserStack e Zephyr**, sempre com foco em **criar cenários de testes que reflitam o uso real** e maximizem a confiabilidade do sistema.
-
 Minha atuação vai além da execução: colaboro diretamente com **equipes de desenvolvimento e análise**, contribuindo para o ciclo completo de testes — do planejamento à entrega. Também tenho familiaridade com metodologias ágeis, uso de **Jira, Confluence e TestRail**, e práticas como **testes exploratórios, regressivos e checklist de interface**.
 
 📚 Em 2025, estou ampliando meus horizontes ao cursar uma **pós-graduação em Automação de Testes**, reforçando meu compromisso com a constante evolução e **em busca de transição para o papel de QA Engineer**, consolidando conhecimentos em automação, arquitetura de testes e qualidade contínua.
