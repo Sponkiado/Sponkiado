@@ -60,8 +60,7 @@ Seja na investigação de um bug crítico ou na construção de um plano de test
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sponkiado&show_icons=true&hide_title=true&theme=tokyonight&hide=stars&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sponkiado&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sponkiado&show_icons=true&hide_title=true&theme=tokyonight&hide=stars&count_private=true" width="60%" />
 </p>
 
 <p align="center">
