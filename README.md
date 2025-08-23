@@ -1,30 +1,28 @@
-<h1 align="center">Olá, eu sou o Cristian! 👋</h1>
+<h1 align="center">Olá, eu sou o Cristian!</h1>
 
 <p align="center">
-  🎯 Quality Assurance | 💡 Foco em Testes Automatizados | 🤖 Explorando IA
+  Quality Assurance | Foco em Testes Automatizados | Explorando IA
 </p>
 
 ---
 
-
 ---
 
-## 🧪 Sobre mim
+## Sobre mim
 
 Sou **Analista de QA** com mais de **18 anos de experiência na área de tecnologia**, tendo construído uma base sólida ao longo de uma carreira que começou como **Analista de Suporte**. Essa vivência me proporcionou uma visão ampla e empática sobre as dores dos usuários, algo que levo comigo até hoje na missão de garantir entregas com **qualidade, estabilidade e valor real para o negócio**.
 
 Minha atuação vai além da execução: colaboro diretamente com **equipes de desenvolvimento e análise**, contribuindo para o ciclo completo de testes — do planejamento à entrega. Também tenho familiaridade com metodologias ágeis, uso de **Jira, Confluence e TestRail**, e práticas como **testes exploratórios, regressivos e checklist de interface**.
 
-📚 Em 2025, estou ampliando meus horizontes ao cursar uma **pós-graduação em Automação de Testes**, reforçando meu compromisso com a constante evolução e **em busca de transição para o papel de QA Engineer**, consolidando conhecimentos em automação, arquitetura de testes e qualidade contínua.
+Em 2025, estou ampliando meus horizontes ao cursar uma **pós-graduação em Automação de Testes**, reforçando meu compromisso com a constante evolução e **em busca de transição para o papel de QA Engineer**, consolidando conhecimentos em automação, arquitetura de testes e qualidade contínua.
 
 Seja na investigação de um bug crítico ou na construção de um plano de testes estratégico, meu objetivo é sempre o mesmo: **entregar valor através da qualidade**.
 
-
 ---
 
 ---
 
-## 🧰 Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -47,15 +45,15 @@ Seja na investigação de um bug crítico ou na construção de um plano de test
 
 ---
 
-## 🌐 Em constante evolução
+## Em constante evolução
 
-- ⚙️ Automatização de testes com foco em qualidade e eficiência  
-- 🧠 Uso de **chatbots com IA** voltados à **educação inclusiva**  
-- 🧩 Exploração de **testes de acessibilidade**
+- Automatização de testes com foco em qualidade e eficiência  
+- Uso de **chatbots com IA** voltados à **educação inclusiva**  
+- Exploração de **testes de acessibilidade**
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sponkiado&show_icons=true&hide_title=true&theme=tokyonight&hide=stars&count_private=true" width="60%" />
@@ -71,13 +69,8 @@ Seja na investigação de um bug crítico ou na construção de um plano de test
 
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sponchiadocristian/)
-- 💌 cristiansponki@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/sponchiadocristian/)
+- cristiansponki@hotmail.com
 
----
-
-<p align="center">
-  Feito por Cristian – sempre em busca de qualidade, inovação e valor nos testes!
-</p>
