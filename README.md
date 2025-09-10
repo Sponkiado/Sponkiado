@@ -1,24 +1,20 @@
 <h1 align="center">Olá, eu sou o Cristian!</h1>
 
 <p align="center">
-  Quality Assurance | Foco em Testes Automatizados | Explorando IA
+  QA Analyst | Test Automation & API Testing | CTFL Certified | JavaScript
 </p>
-
----
 
 ---
 
 ## Sobre mim
 
-Sou **Analista de QA** com mais de **18 anos de experiência na área de tecnologia**, tendo construído uma base sólida ao longo de uma carreira que começou como **Analista de Suporte**. Essa vivência me proporcionou uma visão ampla e empática sobre as dores dos usuários, algo que levo comigo até hoje na missão de garantir entregas com **qualidade, estabilidade e valor real para o negócio**.
+Atuo como **Analista de QA** e estou há mais de **18 anos no mundo da tecnologia**. Minha trajetória começou no **Suporte Técnico**, onde aprendi a enxergar problemas pelo olhar do usuário. Essa experiência moldou a forma como trabalho hoje: buscando sempre entregar soluções com **qualidade, estabilidade e impacto real no negócio**.
 
-Minha atuação vai além da execução: colaboro diretamente com **equipes de desenvolvimento e análise**, contribuindo para o ciclo completo de testes — do planejamento à entrega. Também tenho familiaridade com metodologias ágeis, uso de **Jira, Confluence e TestRail**, e práticas como **testes exploratórios, regressivos e checklist de interface**.
+No dia a dia, colaboro de perto com **desenvolvedores e analistas**, participando de todo o ciclo de testes — desde o planejamento até a entrega final. Tenho experiência com metodologias ágeis e ferramentas como **Jira, Confluence, Zephyr Scale e Azure DevOps**, além de práticas como **testes exploratórios, regressivos e validações de interface**.
 
-Em 2025, estou ampliando meus horizontes ao cursar uma **pós-graduação em Automação de Testes**, reforçando meu compromisso com a constante evolução e **em busca de transição para o papel de QA Engineer**, consolidando conhecimentos em automação, arquitetura de testes e qualidade contínua.
+Em 2025, iniciei uma **pós-graduação em Automação de Testes**, parte do meu objetivo de migrar para a função de **QA Engineer**. Estou focado em ampliar meus conhecimentos em automação, arquitetura de testes e qualidade contínua.
 
-Seja na investigação de um bug crítico ou na construção de um plano de testes estratégico, meu objetivo é sempre o mesmo: **entregar valor através da qualidade**.
-
----
+Resumindo: gosto de investigar problemas a fundo, estruturar estratégias de teste bem definidas e contribuir para que cada entrega seja feita com confiança.
 
 ---
 
@@ -38,18 +34,12 @@ Seja na investigação de um bug crítico ou na construção de um plano de test
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestRail-00BFFF?logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zephyr%20Scale-3DDC84?logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 </p>
-
----
-
-## Em constante evolução
-
-- Automatização de testes com foco em qualidade e eficiência  
-- Uso de **chatbots com IA** voltados à **educação inclusiva**  
-- Exploração de **testes de acessibilidade**
 
 ---
 
@@ -71,6 +61,5 @@ Seja na investigação de um bug crítico ou na construção de um plano de test
 
 ## Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/sponchiadocristian/)
-- cristiansponki@hotmail.com
-
+- [LinkedIn](https://www.linkedin.com/in/sponchiadocristian/)  
+- cristiansponki@hotmail.com  
